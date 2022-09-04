@@ -1,6 +1,7 @@
 # Enhanced_KernelGAN
 Unsupervised Blur Kernel Estimation and Correction for Blind Super-Resolution
-https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9762718
+paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9762718
+appendix: https://ieeexplore.ieee.org/ielx7/6287639/9668973/9762718/supp1-3170053.pdf?arnumber=9762718
 
 # dataset
 download from https://github.com/sefibk/KernelGAN
