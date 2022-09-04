@@ -12,4 +12,12 @@ download DIV2KRK from https://github.com/sefibk/KernelGAN
 python train.py --input-dir input_image_folder --output-dir output_kernel_folder --real --dVar 777.0 --vCenter 0.8 --wSTD 0.01
 
 # Code Reference
+
+Blind Super-Resolution Kernel Estimation using an Internal-GAN
+
 https://github.com/sefibk/KernelGAN
+
+
+Flow-based Kernel Prior with Application to Blind Super-Resolution
+
+https://github.com/JingyunLiang/FKP
