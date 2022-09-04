@@ -6,4 +6,5 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9762718
 download from https://github.com/sefibk/KernelGAN
 
 # usage
-python train.py --input-dir <input image folder> --output-dir <output kernel folder> --real --dVar 777.0 --vCenter 0.8 --wSTD 0.01
+python train.py --input-dir input_image_folder --output-dir output_kernel_folder --real --dVar 777.0 --vCenter 0.8 --wSTD 0.01
+
